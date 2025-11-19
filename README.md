@@ -8,9 +8,7 @@ O objetivo é fornecer um exemplo de arquitetura limpa, organizado e facilmente 
 ## 🚀 Tecnologias Utilizadas
 
 ### **Frontend (caso exista)**
-- React / React Native / Vue / Angular *(personalizar conforme seu projeto)*
-- Axios ou Fetch API
-- React Router / Expo Router (opcional)
+- Bootstrap
 - HTML / CSS / JS
 
 ### **Backend (API Swagger)**
@@ -40,11 +38,11 @@ O sistema permite:
 
 | Método | Endpoint | Descrição |
 |-------|----------|-----------|
-| GET    | `/api/items`           | Lista todos os itens |
-| GET    | `/api/items/{id}`      | Retorna item por ID |
-| POST   | `/api/items`           | Cria novo item |
-| PUT    | `/api/items/{id}`      | Atualiza item existente |
-| DELETE | `/api/items/{id}`      | Remove item |
+| GET    | `/api/alunoa`           | Lista todos os alunos |
+| GET    | `/api/alunos/{id}`      | Retorna aluno por ID |
+| POST   | `/api/alunos`           | Cria novo aluno |
+| PUT    | `/api/alunos/{id}`      | Atualiza aluno existente |
+| DELETE | `/api/alunos/{id}`      | Remove aluno |
 
 
 Link do site: https://crud-phi-gray.vercel.app
